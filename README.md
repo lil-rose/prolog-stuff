@@ -1,2 +1,2 @@
 # prolog-stuff
-Prolog scripts, **just for fun ** (and for academic reasons)
+Prolog scripts, **just for fun ** (but mostly for academic reasons)
